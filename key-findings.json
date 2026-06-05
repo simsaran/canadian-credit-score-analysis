@@ -1,0 +1,16 @@
+{
+  "platforms_assessed": 5,
+  "consumers_modelled": 500,
+  "avg_score_variance_points": 45.3,
+  "consumers_with_50_plus_variance_pct": 34.8,
+  "consumers_checking_multiple_platforms_pct": 57.8,
+  "consumers_confused_by_differences_pct": 48.6,
+  "journey_steps_mapped": 9,
+  "highest_pain_steps": "Score reveal, factor review, cross-checking",
+  "requirements_total": 10,
+  "must_have_requirements": 6,
+  "requirements_met_by_no_platform": 4,
+  "avg_platform_confusion_rating": 3.2,
+  "most_transparent_platform": "Credit Karma Canada",
+  "least_transparent_platform": "Equifax Canada and TransUnion Canada"
+}
